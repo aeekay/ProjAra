@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\setho\Desktop\AraMDK_0.10\Reference Materials\2x2\Prototype Battery Module\EDA Files\Prototype Battery Module 2x2 Altium Project Alpha\PCB\Prototype Battery Module 2x2 Alpha.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=diff_1|Scope=Board|Minimum=5.00
+RuleKind=Width|RuleName=diff|Scope=Board|Minimum=4.00

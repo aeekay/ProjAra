@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Prototype Battery Module 2x2 Alpha.GBR   5/5/2014  7:13:19 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Component Side                          
+.GP1                Ground Plane (GND)                      
+.G1                 Inner Layer 1                           
+.G2                 Inner Layer 2                           
+.GP2                Power Plane (VCC)                       
+.GBL                Solder Side                             
+.GML                Multi-Layer                             
+.GTP                Top Paste                               
+.GTO                Top Overlay                             
+.GTS                Top Solder                              
+.1                  Dielectric1                             
+.GBS                Bottom Solder                           
+.GBO                Bottom Overlay                          
+.GBP                Bottom Paste                            
+.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GM2                DIMENSION                               
+.GM3                OUTLINE                                 
+.GM4                Mechanical 4                            
+.GM6                ASSY_TOP                                
+.GM7                ASSY_BOT                                
+.GM12               Mechanical 12                           
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+.4                  Dielectric4                             
+.2                  Dielectric2                             
+.3                  Dielectric3                             
+.5                  Dielectric5                             
+------------------------------------------------------------------------------------------
